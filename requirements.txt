@@ -5,3 +5,5 @@ passlib
 uwsgi
 werkzeug
 flask-mail
+gunicorn
+jinja
