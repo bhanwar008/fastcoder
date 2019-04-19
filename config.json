@@ -2,8 +2,8 @@
   "params":
   {
     "local_server":"True",
-    "local_uri": 'sqlite:///app.db'
-    "prod_uri":'sqlite:///app.db'
+    "local_uri": 'sqlite:////home/aadesh/PycharmProject/fastcoder-master/app.db',
+    "prod_uri":'sqlite:////home/aadesh/PycharmProject/fastcoder-master/app.db',
     "fb_url":"https://www.facebook.com/codeboomofficial/",
     "ins_url":"https://instagram.com/fast_coder",
     "gh_url": "https://github.com/fastcoder",
